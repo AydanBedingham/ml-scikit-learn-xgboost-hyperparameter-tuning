@@ -1,4 +1,4 @@
-# Hyperparameter tuning for XG-Boost in Scikit-Learn
+# Hyperparameters Optimization for ScikitLearn XG-Boost
 Jupyter Notebook that uses Scikit-Learn to to train a machine learning model to predict the MSRP (Manufacturer's Suggested Retail Price) for cars using a 'used car prices' dataset. Trains an XGBoost model and compares the non-optimised RMSE and R2 values to those obtained using GridSearch for hyperparameter tuning.
 
 - Tasks:
